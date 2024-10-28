@@ -1,4 +1,4 @@
-# Scripta para isntalação do Rocket Chat
+# Script para isntalação do Rocket Chat
 Esse script faz a instalação do Rocket chat em ambientes basedo em Ubuntum
 
 1º crie o script com o editor de sua preferencia, ou faça o clone.
